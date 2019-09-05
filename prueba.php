@@ -1,1 +1,1 @@
-<?php echo 'esto es una preub';?>
+<?php echo 'esto es una prueba 2';?>
